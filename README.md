@@ -4,9 +4,9 @@
    - How to Run Program
   
 **Project Title**
-   *Computational Thinking*
+   - *Computational Thinking*
    
 **Description**
-   ***Using Spyder to write programming languages and solve business related questions***
+   - ***Using Spyder to write programming languages and solve business related questions***
 
    
