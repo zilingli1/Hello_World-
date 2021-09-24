@@ -1,7 +1,6 @@
 **Table of Contents**
    - Porject Title
    - Description
-   - How to Run Program
   
 **Project Title**
    - *Computational Thinking*
